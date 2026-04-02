@@ -1,0 +1,77 @@
+[
+  {
+    "folder": "Apple_Apple_scab",
+    "crop": "Apple",
+    "disease": "Apple scab"
+  },
+  {
+    "folder": "Apple_Black_rot",
+    "crop": "Apple",
+    "disease": "Black rot"
+  },
+  {
+    "folder": "Apple_Cedar_apple_rust",
+    "crop": "Apple",
+    "disease": "Cedar apple rust"
+  },
+  {
+    "folder": "Apple_healthy",
+    "crop": "Apple",
+    "disease": "Healthy"
+  },
+  {
+    "folder": "Grape_Black_rot",
+    "crop": "Grape",
+    "disease": "Black rot"
+  },
+  {
+    "folder": "Grape_Esca_(Black_Measles)",
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)"
+  },
+  {
+    "folder": "Grape_healthy",
+    "crop": "Grape",
+    "disease": "Healthy"
+  },
+  {
+    "folder": "Grape_Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "crop": "Grape",
+    "disease": "Leaf blight (Isariopsis Leaf Spot)"
+  },
+  {
+    "folder": "Tomato_Bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial spot"
+  },
+  {
+    "folder": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "disease": "Early blight"
+  },
+  {
+    "folder": "Tomato_healthy",
+    "crop": "Tomato",
+    "disease": "Healthy"
+  },
+  {
+    "folder": "Tomato_Late_blight",
+    "crop": "Tomato",
+    "disease": "Late blight"
+  },
+  {
+    "folder": "Tomato_Leaf_Mold",
+    "crop": "Tomato",
+    "disease": "Leaf Mold"
+  },
+  {
+    "folder": "Tomato_Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease": "Septoria leaf spot"
+  },
+  {
+    "folder": "Tomato_Spider_mites Two-spotted_spider_mite",
+    "crop": "Tomato",
+    "disease": "Spider mites Two-spotted spider mite"
+  }
+]

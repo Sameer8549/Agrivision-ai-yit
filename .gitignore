@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# AI Models and Weights
+ai_module/
+model/*.pth
+model/*.pt
+model/*.onnx
+model/*.h5
+*.safetensors
+models/
+
+# Datasets and logs
+data/
+dataset/
+logs/
+*.log
+training_log.txt
