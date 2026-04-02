@@ -1,5 +1,5 @@
 """
-CropSentinel AI -- fast_train.py
+AgriVision AI -- fast_train.py
 Self-contained fast training script.
 Writes ALL output to training_log.txt in real time.
 Run: python fast_train.py
