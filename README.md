@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌱 AgriVision</h1>
-  <p><strong>Matrix Fusion 4.0 Hackathon Submission</strong></p>
+  <p><strong></p>
 </div>
 
 An enterprise-grade agricultural diagnostic platform that merges real-time Computer Vision with localized Mixture-of-Experts Artificial Intelligence. Built for high-speed edge environments, AgriVision can instantly detect multi-crop pathologies, calculate localized spraying windows, and generate professional PDF lab reports fully connected to regional farming expert networks.
